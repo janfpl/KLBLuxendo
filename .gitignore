@@ -1,0 +1,8 @@
+build
+flags.txt
+*.asv
+*.mexw64.pdb
+KLBheaderUpdate
+build_mingw64
+temp
+testCwrapper
